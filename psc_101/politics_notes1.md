@@ -16,3 +16,18 @@ a) traditional
 b) charismatic
 c) legal
 ```
+- Power has three concepts:
+``` 
+1) Power as influence
+2) Power as Capabilities
+3) Coercive versus Non-coercive Power: Section stresses that power can result from rewards/punishments as well as from authority.
+```
+###### Power as Influence:
+```
+a) Getting people to do what you want them to do
+b) Overcoming resistance
+```
+###### Power as Capabilities:
+```
+a) Government office, money, control of military, etc. These things allow one to have influence.
+```
