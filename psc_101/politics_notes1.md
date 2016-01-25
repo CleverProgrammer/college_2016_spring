@@ -16,7 +16,7 @@ a) traditional
 b) charismatic
 c) legal
 ```
-- Power has three concepts:
+###### Power has three concepts:
 ``` 
 1) Power as influence
 2) Power as Capabilities
