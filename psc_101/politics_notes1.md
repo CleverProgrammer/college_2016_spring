@@ -6,4 +6,6 @@ a) who gets what
 b) when
 c) how
 ```
-- Therefore, politics is a set of activites that help organize individuals, systematically resolve disputes, and main order in society.
+- Therefore, politics is a set of activites that help organize individuals, systematically resolve disputes, and maintain order in society.
+### Power of Politics
+1. Power: The ability of governments and leaders to make and enforce rules, influence behavior of citizens
