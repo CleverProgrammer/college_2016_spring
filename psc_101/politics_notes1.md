@@ -12,6 +12,8 @@ c) how
 - Power: The ability of governments and leaders to make and enforce rules, influence behavior of citizens
 - Power can be "hard" in form of brute corecion (like war) or "soft" through personal attraction or persuasion.
 - Power can result from rewards/punishments, as well as from authority. Authority, in turn, may have three sources:
+
+###### Max Weber's Three Types of Authority:
 ```
 a) traditional: Based on a system in which authority is legitimate because it
    "has always existed". People in power usually enjoy it because they have inherited it.
