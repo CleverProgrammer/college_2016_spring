@@ -20,7 +20,8 @@ c) legal
 ``` 
 1) Power as influence
 2) Power as Capabilities
-3) Coercive versus Non-coercive Power: Section stresses that power can result from rewards/punishments as well as from authority.
+3) Coercive versus Non-coercive Power: Section stresses that power can result from 
+rewards/punishments as well as from authority.
 ```
 ###### Power as Influence:
 ```
