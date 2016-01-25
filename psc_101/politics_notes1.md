@@ -13,9 +13,15 @@ c) how
 - Power can be "hard" in form of brute corecion (like war) or "soft" through personal attraction or persuasion.
 - Power can result from rewards/punishments, as well as from authority. Authority, in turn, may have three sources:
 ```
-a) traditional
-b) charismatic
-c) legal
+a) traditional: Based on a system in which authority is legitimate because it
+   "has always existed". People in power usually enjoy it because they have inherited it.
+
+b) charismatic: Based on the charisma of the leader, who shows that he
+   possesses the right to lead by virtue of magical powers, prophecies, heroism, etc
+   
+c) legal: Based on a system of rules that is applied administratively 
+   and judicially in accordance with known principles. The persons who administer 
+   those rules are appointed or elected by legal procedures.
 ```
 ###### Power has three concepts:
 ``` 
