@@ -20,3 +20,5 @@
 - Respond to its environment
 - Develop and maintain a complex organization
 - Give rise to new cells
+- All cells have an enclosed membrane that regulates what goes into and out of a cell
+- All cells use **DNA** as their genetic information
