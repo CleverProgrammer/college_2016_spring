@@ -37,3 +37,19 @@ a) Examples of protists are amoebas, euglena, etc.
 b) Contain membrane-bounded organelles
 c) True nucleus (have a membrane around it)
 ```
+
+**Plants**
+```
+Produce their own food
+Photosynthetic
+```
+
+**Consumers**
+```
+Eat plants and other animals
+```
+
+**Decomposers**
+```
+Recycle, changing complex matter into simpler mineral nutrients (bacteria)
+```
