@@ -22,3 +22,18 @@
 - Give rise to new cells
 - All cells have an enclosed membrane that regulates what goes into and out of a cell
 - All cells use **DNA** as their genetic information
+
+Here are two basic types of cells: <br>
+**Prokaryotic** (All bacteria, one celled):
+```
+a) Do not have organelles with a membrane smaller than eukaryotic
+b) No true nucleas (no membrane around it)
+c) Have genetic material (DNA) in an area called the nucleoid
+d) Some have a cellwall (animal cells do not have a cell wall)
+```
+**Eukaryotic** (All plants, animals, fungi, and protists):
+```
+a) Examples of protists are amoebas, euglena, etc.
+b) Contain membrane-bounded organelles
+c) True nucleus (have a membrane around it)
+```
