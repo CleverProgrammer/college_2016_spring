@@ -22,3 +22,37 @@ Term | Definition |
 Term | Definition |
 ----------------- | :----------: |
 **KOINONIA** | Communion through participation, like a fellowship |
+
+#### Main Artists
+-------------------
+Artist | Definition |
+----------------- | :----------: |
+**Actors** | Communion through participation, like a fellowship |
+**Vocalists** | Communion through participation, like a fellowship |
+**Actors** | Communion through participation, like a fellowship |
+
+#### Other Artists
+-------------------
+Artist | Definition |
+----------------- | :----------: |
+**Playwright** | Story |
+**Director** | Director has to come up with a unified vision and portray the story |
+**Designers** | Create stages, costumes, etc |
+**Technicians** | Like doing the lighting |
+**Musicians** | Very important during a musical or opera but are still important |
+
+#### Plays
+-------------------
+Play Type | Definition |
+----------------- | :----------: |
+**Script** | Hardcoded things that have to followed exactly like dialogues or monologues etc |
+**Improv Plan** | Telling a story while doing an impromptu thing, more random |
+**Story** | The main architecture of what has to be told |
+**Text** | Like a novel |
+**Plan** | The main improv layout and the set outline for all the events that are going to happen |
+
+#### Audience
+-------------------
+- Live interaction between players and the audience is unique among all art forms
+- Audience changes the performance as much as the players
+- Audience drives what plans are produced
