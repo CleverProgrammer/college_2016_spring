@@ -29,6 +29,9 @@ Artist | Definition |
 ----------------- | :---------- |
 **Actors** | The main faces on the stage that play out the story |
 **Vocalists** | Singers |
+**Mime** | They are not speaking |
+**Puppeteers** | Performing through doppleganger |
+**Acrobats** | The ones in gymnastics |
 
 #### Other Artists
 -------------------
