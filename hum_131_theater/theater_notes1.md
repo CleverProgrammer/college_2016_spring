@@ -1,6 +1,11 @@
 #Theater
 - Started 4500 years ago
 
+#### Important
+Term | Definition |
+----------------- | :---------- |
+**KOINONIA** | Communion through participation, like a fellowship |
+
 #### Theater as Entertainment
 -----------------------
 - Story
@@ -17,11 +22,6 @@ Term | Definition |
 **Objectivity**  |  Seeing more than one perspective |
 **Complexity of Means** | Sending a message through a median like the music, lights, stage, etc |
 **Immediacy** |  Based on ephemerality, it is a live experience like a live music show and you do not get this with movies or TV |
-
-
-Term | Definition |
------------------ | :---------- |
-**KOINONIA** | Communion through participation, like a fellowship |
 
 #### Main Artists
 -------------------
