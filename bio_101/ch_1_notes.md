@@ -65,6 +65,6 @@ Recycle, changing complex matter into simpler mineral nutrients (bacteria)
 
 ### Three domains of life
 -------------------------
-**Bacteria** - Unicellular, no true nucleus but nuclear material is in an area called the nucleoid, prokaryotic.
-**Archea** - Live in extreme environment--> Bacteria, prokaryote
-**Eukarya** - Membrane bounded nucleus - eukaryote... Includes protists, fungi, plants, and animals
+**Bacteria** - Unicellular, no true nucleus but nuclear material is in an area called the nucleoid, prokaryotic. <br>
+**Archea** - Live in extreme environment--> Bacteria, prokaryote. <br>
+**Eukarya** - Membrane bounded nucleus - eukaryote... Includes protists, fungi, plants, and animals <br>
