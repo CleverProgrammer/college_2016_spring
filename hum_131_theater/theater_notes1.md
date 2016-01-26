@@ -11,7 +11,7 @@
 #### Theater as Art
 ---------------------------------
 Term | Definition |
--------------- | ------------ |
+-------------- | :------------ |
 **Lifelikeness** | How realistic it is |
 **Ephemerality** | You are experiencing things in the moment |
 **Objectivity**  |  Seeing more than one perspective |
@@ -20,21 +20,20 @@ Term | Definition |
 
 
 Term | Definition |
------------------ | :----------: |
+----------------- | :---------- |
 **KOINONIA** | Communion through participation, like a fellowship |
 
 #### Main Artists
 -------------------
 Artist | Definition |
------------------ | :----------: |
-**Actors** | Communion through participation, like a fellowship |
-**Vocalists** | Communion through participation, like a fellowship |
-**Actors** | Communion through participation, like a fellowship |
+----------------- | :---------- |
+**Actors** | The main faces on the stage that play out the story |
+**Vocalists** | Singers |
 
 #### Other Artists
 -------------------
 Artist | Definition |
------------------ | :----------: |
+----------------- | :---------- |
 **Playwright** | Story |
 **Director** | Director has to come up with a unified vision and portray the story |
 **Designers** | Create stages, costumes, etc |
@@ -44,7 +43,7 @@ Artist | Definition |
 #### Plays
 -------------------
 Play Type | Definition |
------------------ | :----------: |
+----------------- | :---------- |
 **Script** | Hardcoded things that have to followed exactly like dialogues or monologues etc |
 **Improv Plan** | Telling a story while doing an impromptu thing, more random |
 **Story** | The main architecture of what has to be told |
