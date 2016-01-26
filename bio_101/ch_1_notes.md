@@ -1,8 +1,8 @@
 # Levels of Biological Organization
 ###### Terminology
 ----------------
-**Biosphere** - All environments on Earth that support life <br>
-**Ecosystem** - All orgranisms living and non-living physical components in a particular area. <br>
+**Biosphere** - All environments on Earth that support life (Whole earth) <br>
+**Ecosystem** - All orgranisms living and non-living physical components in a particular area. (Land, ocean, etc) <br>
 **Population** - All orgranisms inhabiting a particular ecosystem. Can only be one thing at a time like JUST HUMANS or JUST TREES or JUST SQUIRRELS etc. <br>
 **Organism** - Anything that is living. <br>
 **Orgran System** - muscular, lymphatic, respiratory, endocrine, skeletal, muscular, integumentary, immune, urinary, reproductive, circulatory. <br>
