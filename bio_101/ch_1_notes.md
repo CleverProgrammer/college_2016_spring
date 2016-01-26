@@ -1,5 +1,5 @@
 # Levels of Biological Organization
-###### Basic Terminology
+### Basic Terminology
 ----------------
 **Biosphere** - All environments on Earth that support life (Whole earth) <br>
 **Ecosystem** - All orgranisms living and non-living physical components in a particular area. (Land, ocean, etc) <br>
@@ -13,7 +13,7 @@
 **Molecules** - Made up of atoms held together by chemical bonds. <br>
 **Atoms** - Smallest unit of matter.
 
-###### Cells: Functional units of life
+### Cells: Functional units of life
 ---------------
 - Regulate its interval environment
 - Take in and use energy
@@ -54,7 +54,7 @@ Eat plants and other animals
 Recycle, changing complex matter into simpler mineral nutrients (bacteria)
 ```
 
-###### Order: The highly ordered structure of life
+### Order: The highly ordered structure of life
 --------------------------------------------------
 **Regulation** - Homeostasis, maintaining a constant internal environment, an ability to control an organism's internal environment within limits that sustain life. <br>
 **Growth and Development** - Consistent growth and development controlled by inherited DNA <br>
