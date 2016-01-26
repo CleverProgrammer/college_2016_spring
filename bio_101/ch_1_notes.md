@@ -53,3 +53,10 @@ Eat plants and other animals
 ```
 Recycle, changing complex matter into simpler mineral nutrients (bacteria)
 ```
+
+###### Order: The highly ordered structure of life
+--------------------------------------------------
+**Regulation** - Homeostasis, maintaining a constant internal environment, an ability to control an organism's internal environment within limits that sustain life.
+**Growth and Development** - Consistent growth and development controlled by inherited DNA
+**Energy processing** - The use of chemical energy to pwer an organism's activities and chemical activities
+**Response to the environment** - An ability to respond to environmental stimuli.
