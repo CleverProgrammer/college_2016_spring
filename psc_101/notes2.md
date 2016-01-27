@@ -1,6 +1,6 @@
 01/27/2016 Wednesday
 # Three Fundamental Principles of Power
-...
+--------------------------------------
 
 ### Order
 ----------
@@ -38,3 +38,8 @@ Term | Definition |
 **3. Comparative Politics** | Compares governments and political systems
 **4. International Relations** | Studies the interaction of countries
 **5. Public Administration** | Trains people for a career in public service
+
+### Why Study Politics?
+---------------------
+- Individual happiness depends in part on how the government works
+- Politics plays an important role in shaping the moral character and conduct of its citizenry
