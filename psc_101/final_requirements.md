@@ -11,6 +11,9 @@
 
 Name | Title |
 ----- | --------- |
+AndrewPrzybylo | Mayor |
+Steven C. Vinezeano | Village Manager | 
+Marlene J. Victorine | Village Clerk |
 George D. Alpogianis | Trustee |
 Denise M. McCreery | Trustee |
 John C. Jekot | Trustee |
