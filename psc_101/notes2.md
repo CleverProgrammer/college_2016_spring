@@ -1,7 +1,7 @@
 01/27/2016 Wednesday
-# Three Fundamental Principles of Power
+# Three Fundamental Principles of Politics
 --------------------------------------
-### Power of Politics
+### Power
 -------------------
 - Power: The ability of governments and leaders to make and enforce rules, influence behavior of citizens
 - Power can be "hard" in form of brute corecion (like war) or "soft" through personal attraction or persuasion.
