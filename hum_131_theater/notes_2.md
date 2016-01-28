@@ -70,3 +70,12 @@ Location | Where is the setting
 -----------
 - Emotionally Removed
 - Creates Laughter
+
+##### Styles
+----------------
+Style | Meaning
+------ | --------
+Classical | Uses elements of the original production
+Absurdism | Disjointed and disconnected to the audience but portrays the world at the time like WW2
+Symbolism | Like crosses, prom dresses, etc. connects you to the scence
+Post-Modernist | A collection of styles from different places and times
