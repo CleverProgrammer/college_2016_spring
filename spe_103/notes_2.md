@@ -35,3 +35,11 @@ Policy | A particular course of action the audience can take
 - Take time to think
 - Test your thinking on others
 - Avoid wishful thinking
+
+### Purpose Statement has 3 Qualities
+----------------------------------------
+Quality | Definition
+--------|----------
+Specific | Exactly how they can do something
+Achievable | Is it possible?
+Relevant | Does the audience like it?
