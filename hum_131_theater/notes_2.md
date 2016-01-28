@@ -47,3 +47,15 @@ Term | Meaning
 Diction | How someone speaks
 Music | Music is part of the text
 Spectacle | Effects used by playwrights to show meaning in a text, like a war scene
+
+##### Other Elements
+----------------
+Term | Meaning
+------ | --------
+Foreshadowing | Signaling for what is to come
+Motifs | Different themes
+Repetition | Things
+Information | Special information
+Action | What kind of things are being done
+Comedy | Funny jokes and stuff
+Location | Where is the setting
