@@ -1,0 +1,49 @@
+# How to Read A Play
+-------------------
+
+###### Pay Close Attention To
+------------------------
+- Stage Directions
+- Time and Place of Action
+- Implied meanings
+- Character Action and Interaction
+--> Purpose
+--> Passion
+--> Perception
+
+### Three Major Elements of a Play
+-----------------------------
+
+###### 1. Plot
+---------
+- Story Line Begins
+- Point of attack
+- Inciting incident
+- Rising Action --> Complications and discoveries
+- Climax
+- Denouement or "falling action"
+- Story ends
+
+###### 2. Character
+----------------
+Factor | Meaning
+------ | --------
+Physical | All phyiscal attributes of the character like age, gender, looks, etc
+Societal | ?
+Psychological | Desire and motivation
+Moral | The big good and bad factor
+
+###### 3. Thought
+----------------
+Factor | Meaning
+------ | --------
+Themes | All phyiscal attributes of the character like age, gender, looks, etc
+Arguments | ?
+
+##### Text
+----------------
+Term | Meaning
+------ | --------
+Diction | How someone speaks
+Music | Music is part of the text
+Spectacle | Effects used by playwrights to show meaning in a text, like a war scene
