@@ -59,3 +59,14 @@ Information | Special information
 Action | What kind of things are being done
 Comedy | Funny jokes and stuff
 Location | Where is the setting
+
+### Tragedy
+---------
+- "TRUE TO LIFE"
+- Importance of protagonist
+- **HAMARTIA** --> A fatal flaw leading to a downfall of the hero or heroine
+
+### Comedy
+-----------
+- Emotionally Removed
+- Creates Laughter
