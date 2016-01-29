@@ -1,17 +1,20 @@
 # Levels of Biological Organization
 ### Basic Terminology
 ----------------
-**Biosphere** - All environments on Earth that support life (Whole earth) <br>
-**Ecosystem** - All orgranisms living and non-living physical components in a particular area. (Land, ocean, etc) <br>
-**Population** - All orgranisms inhabiting a particular ecosystem. Can only be one thing at a time like JUST HUMANS or JUST TREES or JUST SQUIRRELS etc. <br>
-**Organism** - Anything that is living. <br>
-**Orgran System** - muscular, lymphatic, respiratory, endocrine, skeletal, muscular, integumentary, immune, urinary, reproductive, circulatory. <br>
-**Organs** - Liver, stomach, etc and they are composed of tissues that perform a specific function. <br>
-**Tissues** - Groups of cells that perform a specific function. <br>
-**Cells** - Functional unit of life. <br>
-**Organelles** - Subcellular structures that perform a specific function. <br>
-**Molecules** - Made up of atoms held together by chemical bonds. <br>
-**Atoms** - Smallest unit of matter.
+Term | Definition
+---- | ----------
+**Biosphere** | All environments on Earth that support life (Whole earth)
+**Ecosystem** | All orgranisms living and non-living physical components in a particular area. (Land, ocean, etc)
+**Community** | The entire array of organisms living in a particular system
+**Population** | All orgranisms inhabiting a particular ecosystem. Can only be one thing at a time like JUST HUMANS or JUST TREES or JUST SQUIRRELS etc
+**Organism** | Anything that is living
+**Orgran System** - muscular, lymphatic, respiratory, endocrine, skeletal, muscular, integumentary, immune, urinary, reproductive, circulatory
+**Organs** | Liver, stomach, etc and they are composed of tissues that perform a specific function
+**Tissues** | Groups of cells that perform a specific function
+**Cells** | Functional unit of life
+**Organelles** | Subcellular structures that perform a specific function
+**Molecules** | Made up of atoms held together by chemical bonds
+**Atoms** | Smallest unit of matter.
 
 ### Cells: Functional units of life
 ---------------
