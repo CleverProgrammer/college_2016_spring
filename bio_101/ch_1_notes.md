@@ -68,13 +68,14 @@ Recycle, changing complex matter into simpler mineral nutrients (bacteria)
 **Bacteria** - Unicellular, no true nucleus but nuclear material is in an area called the nucleoid, prokaryotic. <br>
 **Archea** - Live in extreme environment--> Bacteria, prokaryote. <br>
 **Eukarya** - Membrane bounded nucleus - eukaryote... Includes protists, fungi, plants, and animals <br>
+
 Term | Definition
------- | ------ |
-Discovery Science | Describes nature, uses inductive reasoning, from specific to general |
-Hypothesis-Based Science | Uses educated guesses, deductive reasoning, from general to specific |
-Science | it is a way of knwoing and used to solve everyday problems |
-Experimental Group | Contains the variable that is being tested |
-Control Group | Same as experimental but no variable is being tested |
+------ | ------ 
+Discovery Science | Describes nature, uses inductive reasoning, from specific to general 
+Hypothesis-Based Science | Uses educated guesses, deductive reasoning, from general to specific 
+Science | it is a way of knwoing and used to solve everyday problems 
+Experimental Group | Contains the variable that is being tested 
+Control Group | Same as experimental but no variable is being tested 
 Independent Variable | What I can change. Like the intensity of the light and so on. This will always be the X-axis.
 Dependent Variable | What I observe
 Controlled Variable | What stays constant in all experiments
