@@ -8,7 +8,7 @@ Term | Definition
 **Community** | The entire array of organisms living in a particular system
 **Population** | All orgranisms inhabiting a particular ecosystem. Can only be one thing at a time like JUST HUMANS or JUST TREES or JUST SQUIRRELS etc
 **Organism** | Anything that is living
-**Orgran System** - muscular, lymphatic, respiratory, endocrine, skeletal, muscular, integumentary, immune, urinary, reproductive, circulatory
+**Orgran System** | muscular, lymphatic, respiratory, endocrine, skeletal, muscular, integumentary, immune, urinary, reproductive, circulatory
 **Organs** | Liver, stomach, etc and they are composed of tissues that perform a specific function
 **Tissues** | Groups of cells that perform a specific function
 **Cells** | Functional unit of life
