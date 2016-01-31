@@ -30,9 +30,9 @@ Here are two basic types of cells: <br>
 **Prokaryotic** (All bacteria, one celled):
 ```
 a) Do not have organelles with a membrane smaller than eukaryotic
-b) No true nucleas (no membrane around it)
+b) No true nucleus (no membrane around it)
 c) Have genetic material (DNA) in an area called the nucleoid
-d) Some have a cellwall (animal cells do not have a cell wall)
+d) Some have a cell wall (animal cells do not have a cell wall)
 ```
 **Eukaryotic** (All plants, animals, fungi, and protists):
 ```
@@ -73,12 +73,12 @@ Recycle, changing complex matter into simpler mineral nutrients (bacteria)
 **Eukarya** - Membrane bounded nucleus - eukaryote... Includes protists, fungi, plants, and animals <br>
 
 Term | Definition
------- | ------ 
-Discovery Science | Describes nature, uses inductive reasoning, from specific to general 
-Hypothesis-Based Science | Uses educated guesses, deductive reasoning, from general to specific 
-Science | it is a way of knwoing and used to solve everyday problems 
-Experimental Group | Contains the variable that is being tested 
-Control Group | Same as experimental but no variable is being tested 
+------ | ------
+Discovery Science | Describes nature, uses inductive reasoning, from specific to general
+Hypothesis-Based Science | Uses educated guesses, deductive reasoning, from general to specific
+Science | it is a way of knwoing and used to solve everyday problems
+Experimental Group | Contains the variable that is being tested
+Control Group | Same as experimental but no variable is being tested
 Independent Variable | What I can change. Like the intensity of the light and so on. This will always be the X-axis.
 Dependent Variable | What I observe
 Controlled Variable | What stays constant in all experiments
