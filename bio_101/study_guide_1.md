@@ -37,7 +37,7 @@ Atoms | Smallest unit of matter
 --------
 prokaryotic | eukaryotic
 ----------- | ----------
-Single-Cellular | Multi-Cellular
+Uni-Cellular | Multi-Cellular
 NO membrane bounded nucleus | Membrane-bound nucleus
 cell wall | cell wall
 NO membrane-bounded organelles | membrane-bounded organelles
@@ -65,3 +65,11 @@ Energy Processing | Use of chemical energy to power an organism's activities
 Response to environment | Ability to respond to the environmental stimuli
 Reproduction | An organism's ability to reproduce their own kind
 Evolutionary adaption | Adapting to their environments over time in the best possible way
+
+### 6. Name and describe the three domains of life
+-------------------------------------
+Domain | Description
+------ | ----------
+Bacteria | Unicellular, no true nucleus but nucleus is in nucleoid. They are prokaryotic
+Archaea | Live in extreme temperatures. They are prokaryotic. They are bacteria
+Eukarya | They have a membrane bounded nucleus and other organelles. Eukaryotes are plants, fungi, animals, and protists
