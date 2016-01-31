@@ -19,7 +19,7 @@ Atoms | Smallest unit of matter
 ### 2. Name the organ systems
 ---------------
  Number | Organ System
------- |
+------ | ------------
 1. | muscular
 2. | [lymphatic](http://www.livescience.com/26983-lymphatic-system.html) - this helps transport lymphs who fight off toxins
 3. | respiratory
@@ -56,3 +56,7 @@ Photosynthetic | Use sunlight to create oxygen as a byproduct
 Decomposer | Recycle, changing complex matter into simpler mineral nutrients (bacteria)
 
 ### 5. Name the properties common to all living organisms
+---------------------------------
+Property | Definition
+-------- | ----------
+Regulation | Homeostasis, maintaining a constant internal environment within limits to sustain life
