@@ -4,15 +4,15 @@
 Term | Definition
 ---- | ----------
 **Biosphere** | All environments on Earth that support life (Whole earth)
-**Ecosystem** | All orgranisms living and non-living physical components in a particular area. (Land, ocean, etc)
+**Ecosystem** | All organisms living and non-living physical components in a particular area. (Land, ocean, etc)
 **Community** | The entire array of organisms living in a particular system
-**Population** | All orgranisms inhabiting a particular ecosystem. Can only be one thing at a time like JUST HUMANS or JUST TREES or JUST SQUIRRELS etc
+**Population** | All organisms inhabiting a particular ecosystem. Can only be one thing at a time like JUST HUMANS or JUST TREES or JUST SQUIRRELS etc
 **Organism** | Anything that is living
-**Organ System** | muscular, lymphatic, respiratory, endocrine, skeletal, muscular, integumentary, immune, urinary, reproductive, circulatory
+**Organ System** | digestive, lymphatic, respiratory, endocrine, skeletal, muscular, integumentary, immune, urinary, reproductive, circulatory
 **Organs** | Liver, stomach, etc and they are composed of tissues that perform a specific function
 **Tissues** | Groups of cells that perform a specific function
 **Cells** | Functional unit of life
-**Organelles** | Subcellular structures that perform a specific function
+**Organelles** | Sub-cellular structures that perform a specific function
 **Molecules** | Made up of atoms held together by chemical bonds
 **Atoms** | Smallest unit of matter.
 
@@ -76,7 +76,7 @@ Term | Definition
 ------ | ------
 Discovery Science | Describes nature, uses inductive reasoning, from specific to general
 Hypothesis-Based Science | Uses educated guesses, deductive reasoning, from general to specific
-Science | it is a way of knwoing and used to solve everyday problems
+Science | it is a way of knowing and used to solve everyday problems
 Experimental Group | Contains the variable that is being tested
 Control Group | Same as experimental but no variable is being tested
 Independent Variable | What I can change. Like the intensity of the light and so on. This will always be the X-axis.
@@ -93,13 +93,13 @@ Controlled Variable | What stays constant in all experiments
 2. Develop the hypothesis:
 	Involves researching the problem
 	Find what others have learned
-	Use that informatino to help devise an answer
+	Use that information to help devise an answer
 	Should answer the original question and should be **TESTABLE**
 3. Design an experiment to test the hypothesis
 	results either support or disprove the hypothesis
 	hypothesis is said to be **supported**
 4. At least 2 groups in the experiment
-	First group is the experimental group and has the factor or variable beng tested
+	First group is the experimental group and has the factor or variable being tested
 	Second group is the control group, identical to the experimental group except does not contain the experimental variable.
 5. Conduct the experiment to collect the data
 	Will be measuring the dependent variable (this is what is being observed or measured)
