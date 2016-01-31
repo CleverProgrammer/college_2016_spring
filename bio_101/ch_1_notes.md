@@ -61,7 +61,7 @@ Recycle, changing complex matter into simpler mineral nutrients (bacteria)
 --------------------------------------------------
 **Regulation** - Homeostasis, maintaining a constant internal environment, an ability to control an organism's internal environment within limits that sustain life. <br>
 **Growth and Development** - Consistent growth and development controlled by inherited DNA <br>
-**Energy processing** - The use of chemical energy to pwer an organism's activities and chemical activities <br>
+**Energy processing** - The use of chemical energy to power an organism's activities and chemical activities <br>
 **Response to the environment** - An ability to respond to environmental stimuli. <br>
 **Reproduction** - The ability of an organism to reproduce their own kind. <br>
 **Evolutionary adaption** - Adaptations evolve over many generations as individuals with traits best suited to their environment. <br>

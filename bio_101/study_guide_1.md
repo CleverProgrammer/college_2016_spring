@@ -60,3 +60,8 @@ Decomposer | Recycle, changing complex matter into simpler mineral nutrients (ba
 Property | Definition
 -------- | ----------
 Regulation | Homeostasis, maintaining a constant internal environment within limits to sustain life
+Growth and Development | consistent growth and development regulated by DNA
+Energy Processing | Use of chemical energy to power an organism's activities
+Response to environment | Ability to respond to the environmental stimuli
+Reproduction | An organism's ability to reproduce their own kind
+Evolutionary adaption | Adapting to their environments over time in the best possible way
