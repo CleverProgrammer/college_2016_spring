@@ -73,3 +73,8 @@ Domain | Description
 Bacteria | Unicellular, no true nucleus but nucleus is in nucleoid. They are prokaryotic
 Archaea | Live in extreme temperatures. They are prokaryotic. They are bacteria
 Eukarya | They have a membrane bounded nucleus and other organelles. Eukaryotes are plants, fungi, animals, and protists
+
+### 7. What is a gene?
+Term | Definition
+---- | ---------
+Gene | Transferred from parent to offspring and used to determine a certain characteristic of the offspring. It is like a blueprint for a new building
