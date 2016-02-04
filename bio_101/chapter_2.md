@@ -152,3 +152,25 @@ Surface tension | forming a film on the surface (hydrogen bonds gives water its 
 ---
 - In aqueous solutions H<sub>2</sub>O molecules break apart into ions; (H +) hydrogen ions, and (OH-) hydroxide ions
 - More H+ it's an acid (compounds that release hydrogen ions to a solution)
+- An increase in hydrogen ions means a decrease in pH scale units
+- More hydroxyl ions than hydrogen ions means it's a base
+**PH** - Potential for hydrogen (describes how acidic or basic a solution a solution is)
+- pH for human blood is about 7.4
+- 0.6 is acidic
+- 7 is neutral
+- 8-14 is basic
+- Each pH unit represents a tenfold change in the concentration of hydrogen ions
+
+### Buffers
+---
+- Minimizes changes in pH
+- Accepts hydrogen ions when in excess
+- Donates hydrogen ions when depleted
+
+### Chemical reactions
+---
+- Making and breaking of chemical bonds
+- Reactants - Beginning substances -- Before the arrow
+- Products - Results of the reaction -- After the arrow
+- 2H<sub>2</sub> + O<sub>2</sub> --> 2 H<sub>2</sub>O
+- Hydrogen and oxygen are the reactants and water is the product
