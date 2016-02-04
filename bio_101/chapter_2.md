@@ -13,6 +13,7 @@ Mass Number | Number of protons and neutrons
 Isotopes | Same number of protons but different number of neutrons. Examples:  <sup>12</sup> C, <sup>13</sup> C, <sup>14</sup> C
 PET | positron emission tomography
 Tracer | different isotopes of an element behave identically in chemical reactions but living cells cannot distinguish between isotopes of the same element can be used as **tracers** in medical diagnosis
+Octet Rule | Atoms like to have full valence shells of eight electrons in its outermost electron shell to be most stable
 
 - **<sup>14</sup><sub>6</sub> C** --> 6 Protons and 14-6 (8) neutrons.
 - **Neutrons + Protons = Mass Number**
@@ -57,6 +58,9 @@ Electron | Negative charge, found outside of the nucleus in the electron cloud
 ### Valence Electrons
 ---
 - In the A group of the periodic table, the group number tells how many valence electrons that atom has
+- **Octet Rule** - Atoms like to have full valence shells of eight electrons
+- Atoms may react with each other by sharing, donating, or receiving electrons
+- Atoms mass of an element is the weighted average of the isotopes of the element
 
 ### Electron Energy Levels
 ---
@@ -65,3 +69,86 @@ Level | Max Electrons
 1 | 2 Electrons
 2 | 8 Electrons
 3 | 8 Electrons
+
+# 02/03/2016 Chapter 2 Notes Continued
+### Ions and Ionic bonds
+---
+- Ionic bonds are attractions between ions of opposite charges
+<ol>
+    <li>
+    Ions are charged particles that lose or gain electrons
+    </li>
+    <li> Ions transfer electrons </li>
+    <li> Ionic bonds result from the transfer of electrons between ions of opposite charges
+    </li>
+</ol>
+- Ionic compounds are composed of a metal and a non-metal in the transferring of electrons
+- Sodium + chlorine form together to form a **IONIC BOND** called NaCl (Salt)
+- **Positive net charge means that it has lost an electron**
+- **Negative net charge means that it has gained an electron**
+- Ionic bond is between a metal and non-metal
+- **Ions transfer electrons**
+
+### Covalent bonds
+---
+- Sharing of electrons
+- Two or mote atoms held together by a covalent bond formed by a **non-metal** and a **non-metals**
+- Molecules are 2 or more elements that share electrons and form covalent bonds
+- Can form single, double, or triple bond
+
+### Electronegativity
+---
+- Electronegativity is the attraction for shared electrons
+- Atoms in a covalent bond compete for shared electrons
+- Electrons shared equally is a non-polar covalent bond
+- One element - O<sub>2</sub>
+- Electrons shared unequally is a polar covalent bond- H<sub>2</sub>O
+- 2 or more different elements
+- Non-polar is one element
+- Polar are two or more different elements
+
+### Polar Molecules
+---
+- When one end of a molecule is slightly positive and one end slightly negative
+
+- H<sub>2</sub>O is a water molecule
+
+### Hydrogen Bonds (weak Bonds)
+---
+- Water
+- Water is a polar molecule
+- Has atoms with different electro-negativities
+- Oxygen attracts the shared electrons more strongly than hydrogen so the shared electrons spend more time near oxygen
+- The oxygen thus has lightly negative charge and hydrogen has a slightly positive charge
+- Water molecule is attracted by a water molecule
+
+### Properties of Water
+---
+Term | Definition
+--- | ------
+Cohesion | Molecules of the same kind stick together
+Adhesion | Clinging of one substance to another (2 kinds of molecules)
+Surface tension | forming a film on the surface (hydrogen bonds gives water its high surface tension)
+- Water can exist as a solid, liquid or goals
+- Ice is less dense than liquid water (in ice bonds are stable; in liquid water bonds are unstable) and thus ice floats at 4 degrees celsius
+
+### Water is the solvent of life
+---
+- Solution is a uniform mixture of 2 or more substances
+- A substance is an element or compound
+- Solvent does the dissolving
+- Solute being dissolved
+- Both solvent and solute make up a Solution
+- Aqueous water is the solvent
+
+### Water's hydrogen bonds moderate temperature
+---
+- Has a greater ability to resist temperature change
+- Heat is energy and the movement of atoms and molecules in matter
+- Temperature is the intensity of Heat
+- Heat is released when hydrogen bonds form an heat must be absorbed to break hydrogen bonds
+
+### Acids and bases
+---
+- In aqueous solutions H<sub>2</sub>O molecules break apart into ions; (H +) hydrogen ions, and (OH-) hydroxide ions
+- More H+ it's an acid (compounds that release hydrogen ions to a solution)
