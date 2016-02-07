@@ -129,7 +129,7 @@ Term | Definition
 Cohesion | Molecules of the same kind stick together
 Adhesion | Clinging of one substance to another (2 kinds of molecules)
 Surface tension | forming a film on the surface (hydrogen bonds gives water its high surface tension)
-- Water can exist as a solid, liquid or goals
+- Water can exist as a solid, liquid or gas
 - Ice is less dense than liquid water (in ice bonds are stable; in liquid water bonds are unstable) and thus ice floats at 4 degrees celsius
 
 ### Water is the solvent of life
