@@ -37,3 +37,22 @@
 - **Great Compromise** established present structure of Congress
   1. Hoouse of Representatives - Based on population
   2. Senate- Equal representation for all states in the upper house
+
+- George Washington
+- Alexander Madison
+- James Madison
+- Benjamin Franklin
+
+### Motives Behidn the Constitution
+---
+- Public interest of building a strong nation
+- Private interest of protecting their property
+
+### Camps in the Constitution
+---
+Federalists | Anti-Fedederalists
+--- | ------
+Favored strong federal government | Favored strong state governments
+Emphasized on indirectly elected Senate | Emphasized on legislative branch
+Create guardians of people's real interests | Wanted government to be accountable to officials elected by the people
+Pushed for high property qualifications for voting | Fewer limits on popular participation
