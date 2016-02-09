@@ -43,7 +43,7 @@ Products of a Chemical Reaction | Resulting substances that are usually after th
 ### Identify the following isotopes
 ---
 Isotope | Type | # Mass | # Atomic | # Neutrons
-------- | ---- | ------ | --------
+------- | ---- | ------ | -------- | ---------
 <sup>12</sup><sub>6</sub>C | Carbon | 12 | 6 | 6
 <sup>32</sup><sub>16</sub>S | Sulfur | 32 | 16 | 16
 
