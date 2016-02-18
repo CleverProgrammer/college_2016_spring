@@ -130,3 +130,58 @@ Also known as fibrous proteins, structural proteins are necessary components of 
 - Tertiary Structure- interactions among the R groups Disulfide bridges Higher level folding is 3-dimensional.
 
 - Quarternary- two or more  polypeptide chains- collagen, hemoglobin.
+
+##### 19. What is an amino acid made up of?
+---
+- It is made up of an amino group, and a carboxyl group which are covalently bonded together. Those are bonded together by a central carbon atom. Central carbon has a R group and that is what is different about each amino acid
+
+##### 20. Name the 2 nucleic acids.
+---
+1. DNA (Deoxyribonucleic Acid)
+2. RNA (Ribonucleic Acid)
+
+##### 21. What are the 4 nitrogenous bases of DNA?
+---
+1. Adenine
+2. Thymine
+3. Cytosine
+4. Guanine
+
+##### 22. What is the function DNA?
+---
+- Makes up genes
+- Directs the synthesis of proteins
+
+##### 23. What are the 4 nitrogenous bases of RNA?
+---
+1. Adenine
+2. Uracil
+3. Cytosine
+4. Guanine
+
+##### 24. What is the function of RNA?
+---
+- Involved in translation of proteins
+
+##### 25. Name all the complimentary base pairs for DNA and RNA.
+---
+- DNA
+    - A always with T
+    - G always with C
+
+- RNA
+    - A always with U
+    - G always with C
+
+##### 26. Which functional groups are found in
+---
+Macromolecule | Functional Group Found In
+------------- | -------------------------
+Carbohydrates | Hydroxyl
+Lipids | Carboxyl
+Proteins | Carboxyl
+Nucleic Acid | Sugar, Phosphate, and Nitrogen Base
+
+##### 27. What is a nucleotide made up of?
+---
+- Made up of 5 carbon sugar, a phosphate group, and a nitrogenous base

@@ -16,3 +16,6 @@ Euripides | Wrote all three Oedipus. Wrote about women and how men and women bot
  Name | Accomplishments
  ---- | --------------
  Aristophanes | Wrote comedic plays
+
+#### Stylizing Text
+A method where the director
