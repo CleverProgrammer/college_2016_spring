@@ -30,3 +30,44 @@
 - At the end of cell division chromosomes become chromatin
 - Humans have 46 chromosomes (23 pairs)
 - Before a cell divides it will duplicate its chromosomes and the result will be sister chromatids which contain identical genes
+- The two chromatids are joined at the centromere
+- When the cell divies the sister chromatids separate and now called chromosomes(2 of them) identical to that from which they started
+
+### Cell Cycle
+---
+- Have a total number of about 60 trillion cells that need to be replaced. Thus cell division
+
+- In mitosis the cell cycle is the time from one cell division to another
+- Cell division of **NON-SEX CELLS**
+
+### Phases of the cell cycle are:
+---
+- Interphase
+  - Last about 90% of the total time for a cell cycle
+    - **G1** - phase in which it increases its supply of proteins, increases the numbers of its orgranells, and increases in size
+    - **S** - phase in which chromosomes replicates
+      - Start with a single chromosome and end up with 2 sister chromatids
+    - **G2** - Phase where you have growth and preparation for cell division
+    - **M** - Phase (mitosis and cytokinesis)
+
+### Mitosis
+---
+- Nucleus and its contents divide and form two daughter cells
+
+### Cytokinesis
+---
+- When the cytoplasm divides into two
+
+### Mitosis - 4 main stages or phases
+  - **Prophase** - Chromatin coils, seen as chromosomes
+  -  2 sister chromatids formed,
+  -  Mitotic spindle begins to form as microtubules grow out of the centrosomes
+  -  Centrosomes produce the mitotic spindle
+    - Organize microtubule arrangements
+    - Contain a pair of centrioles (no centrioles in plant cells)
+    - Nucleoli disappears
+
+### Prometaphase or prophase
+---
+- Kinetochores attach centromeres of the chromosomes to the spindle
+- Nuclear envelope disappears
