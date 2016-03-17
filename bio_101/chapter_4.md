@@ -86,3 +86,24 @@ Receptor mediated endocytosis | Membrane indented to form a coated pit. Proteins
     - Living cells do not have this option so they produce enzymes to bring substrates together to produce a product
     - This is done without increasing the temperature
     - This is done by lowering the activation energy
+<<<<<<< HEAD
+=======
+
+
+# MISSING NOTES
+- Microtubules - Shape and support the cell composed of tubulin
+
+### Cell Junctions
+---
+    - Interact with neighboring cells
+    - 3 types found in animal cells
+        - Tight-prevent leakage of cellular fluid
+        - Anchoring-fasten cells into strong sheets
+        - Gap - channels that allow molecules to flow between cells
+
+### Cell wall
+---
+- Not found in animal cells
+- Found in plant cells
+- Have cell junctions called plasmodesmata that serve in communication between cells
+>>>>>>> 1306e6add0e1ae8b1610eeb1e6f75146d28fe3e9

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hapter 5 Study Guide
+=======
+# Chapter 5 Study Guide
+>>>>>>> 1306e6add0e1ae8b1610eeb1e6f75146d28fe3e9
 ---
 ##### What is a cell membrane made up of?
 ---
@@ -194,4 +198,7 @@ hapter 5 Study Guide
 - Selectively permeable - A selectively permeable cell membrane is one that allows certain molecules or ions to pass through it by means of active or passive transport
 - Turgor - pressure is the pressure of water pushing the plasma membrane against the cell wall of a plant cell
 - Plasmolysis - pressure decreases to the point where the protoplasm of the cell peels away from the cell wall, leaving gaps between the cell wall and the membrane and making the plant cell flaccid
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1306e6add0e1ae8b1610eeb1e6f75146d28fe3e9
