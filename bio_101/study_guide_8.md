@@ -1,0 +1,58 @@
+# Chapter 8 Study Guide
+---
+- Asexual Reproduction- Identical offspring, requires one parent, reproduce by binary fission. 
+- Sexual Reproduction- Eukaryotes, more complex than prokaryotes, contain chromosomes, 1000’s genes and attached proteins called histones.
+- Prokaryotes reproduce by binary fission.
+- Organisms that are prokaryotes have circular DNA.
+- Chromosomes seen as long fibers. When the cell prepares to divide it will coil and become compact.
+- In mitosis, cell cycle is the time from one cell division to another. These are NON-SEX CELLS.
+.
+- Interphase- Lasts about 90% of the total time for a cell cycle.
+- M Phase- Mitosis and cytokinesis)
+.
+- Prophase- Kinetochords attach centromeres of the chromosomes to the spindle nuclear envelope disappears.
+- Metaphase- Mitotic spindle fully formed, the centromeres located on equatorial plate, the kinetochores face opposite poles of the spindle.
+- Anaphase- Centromeres of sister chromatids come apart, sister chromatids separate, daughter chromosomes move towards the opposite ends of the poles, spindles shorten and the cell elongates.
+- Telophase- Reverse of prophase, nuclear envelope reforms, chromatin fibers uncoil, nucleolus reappears, and the mitotic spindle disappears.
+- Cytokinesis in animal cells - Animals cleavage furrow forms that pinch the cell into 2 cells. The ring of microfilaments made of actin which contract and pushes the parent cell into 2 cells.
+- Cytokinesis in plant cells - Grows outward and fuses with the plasma membrane which later results to 2 daughter cells.
+- Anchorage dependence - There’s a requirement for both animal and plant cells where they need to have contact with a solid surface in order to divide.
+- Density dependent inhibition - Cells multiply to form a single layer and usually stop when they touch one another. It is needed so an overgrowth of cells does not happen within the organism.
+- Checkpoints in the cell cycle - These checkpoints in the cell cycle regulate the cycle. Signals to either stop or go and is controlled by proteins in the cell.
+.
+- M Checkpoint - (mitotic checkpoint)
+- G1 Checkpoint - Allows entry into S phase which causes the cell to leave the cycle and enter the G0 phase.
+- G0 Checkpoint - If the cell does not receive the signal to go ahead then it will stop dividing such as nerve and muscle cells. (Density dependent inhibition)
+.
+- Cancer - disease caused by uncontrolled division of cells.
+- Tumor - abnormal mass of cells.
+- Benign tumor - abnormal mass of normal cells that stay at the same place.
+- Malignant tumor - mass of cancer cells that displaces normal tissue and spread to other locations. 
+- Carcinomas - Cancers that originate in the external or internal coverings of the body such as skin and internal linings.
+- Sarcomas - arise in tissues that support the body such as bone and muscle.
+- Leukemia - Cancer of blood forming tissues.
+- Sister Chromatids - refers to two identical chromatids formed by the replication of a single chromosome. Both copies joined together by a common centromere.
+- Centromere - is the part of a chromosome that links sister chromatids. The spindle fibers attach to the centromere.
+- Autosomes - are chromosomes that is not a sex chromosome. They appear in pairs whose members have the same form but are different from the other pairs in a diploid cell.
+- Kinetochord - protein structure on chromatids where the spindle fibers attach during cell division to pull sister chromatids apart.
+- Centrioles - small set of microtubules that are arranged in a specific way. If there’s a pair, they usually form 90 degree angles.
+- 44 autosomes
+- 2 sex chromosomes, they affect us by choosing our gender and certain qualities we receive from the parents.
+ - Gametes - Sex cells, egg and sperm which have a single sex chromosome, X or Y.
+- Diploid Cells - 2 homologous sets of chromosomes whose total number of chromosomes is 2N.
+- Haploid cell - One set of chromosomes is N
+- Fertilized Egg - Zygote, diploid, full set of chromosomes.
+- Cell division of the reproductive organs, reduces the number of chromosomes from diploid to haploid.
+- Prophase 1 - Occupies 90% of meiosis and contains chromatin coils.
+- Metaphase 1 - Tetrads are aligned on the equatorial plate. Spindle microtubules are attached to kinetochords at the centromeres.
+- Anaphase 1- Migration of the chromosomes towards the 2 poles of the cell where the tetrads split apart and each doubled chromosomes remain at their centromere.
+- Telophase 1 - Chromosomes are at the poles, chromosomes are haploid but duplicated (Sister chromatids), nuclear envelope reforms, and the cytokinesis occurs.
+- Meiosis 2- The second the divisions of the nucleus of eukaryotic cell during meiosis, and contains prophase II, metaphase II, anaphase II, and telophase II.
+- Chiasma - a point where paired chromosomes remain in contact during the first metaphase of meiosis and the crossing over and exchanging of genetic material happens with the strands.
+- Karyotype - Display of an individual’s chromosomes arranged in pairs. The process is that mitosis is stopped at metaphase using the cells of lymphocytes.
+- Nondisjunction - is a process where chromosomes fail to separate. This occurs in meiosis.
+- Chromosome breakage - 
+- Deletion - if a fragment of a chromosome is lost.
+- Duplication - if a fragment of a chromosome joins to a sister chromatid or a homologous chromosome.
+- Inversion - if a fragment attaches to the original chromosome but in reverse direction.
+- Translocation - attachment of a fragment to a nonhomologous chromosome.
